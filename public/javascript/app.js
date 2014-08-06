@@ -41,7 +41,7 @@ window.onload = function(){
     }
     gameBoard.appendChild(div);
   }
-  
+
   results.style.display = 'none';
   setPlayer(player1);
   setPlayer(player2);

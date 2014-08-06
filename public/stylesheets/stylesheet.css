@@ -44,6 +44,7 @@ body {
   background:rgba();
   border-radius:6px;
   opacity:0.5;
+  list-style-type: none;
 }
 #teams li:last-child {
   float:right;
@@ -74,7 +75,7 @@ body {
   width:480px;
   height:480px;
   padding:120px 60px 60px 60px;
-  top:50%;
+  top:70%;
   left:50%;
   margin:-420px 0 0 -300px;
 }
